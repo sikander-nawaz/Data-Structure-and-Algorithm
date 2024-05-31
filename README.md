@@ -9,4 +9,4 @@ This repository contains PYTHON code that I have written to solve DSA problems o
 - Introduction
 - Compilation Process
 - Compiler & IDE setup
-- Python Basic
+- Learn Python
