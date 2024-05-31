@@ -9,11 +9,4 @@ This repository contains PYTHON code that I have written to solve DSA problems o
 - Introduction
 - Compilation Process
 - Compiler & IDE setup
-- Start Of Program in Python
-- Writing "Hello World!" Program
-- Understanding the Code line by line
-- DataTypes & Variables
-- How data in Stored ?
-- TypeCasting
-- How -ve numbers are stored ?
-- Operators
+- Python Basic
