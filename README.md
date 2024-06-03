@@ -10,3 +10,7 @@ This repository contains PYTHON code that I have written to solve DSA problems o
 - Compilation Process
 - Compiler & IDE setup
 - Learn Python
+
+## Week 02:
+
+- Solving Array Questions
