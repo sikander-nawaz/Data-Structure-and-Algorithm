@@ -31,3 +31,4 @@
 3.  [House Robber](https://leetcode.com/problems/house-robber)
 4.  [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 5.  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
+6.  [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique)
