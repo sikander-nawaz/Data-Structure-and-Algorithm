@@ -13,18 +13,20 @@
 9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
-12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
-13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+12. [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)
+13. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
+<!-- 14. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) -->
 14. [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 15. [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)
+16. [136. Single Number](https://leetcode.com/problems/single-number/)
 <!-- 14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)
-16. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)
-17. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)
-18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)
-19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year)
-20. [Two Sum](https://leetcode.com/problems/two-sum)
-21. [Plus One](https://leetcode.com/problems/plus-one)
-22. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) -->
+17. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)
+18. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)
+19. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)
+20. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year)
+21. [Two Sum](https://leetcode.com/problems/two-sum)
+22. [Plus One](https://leetcode.com/problems/plus-one)
+23. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) -->
 
 - ## Medium
 
