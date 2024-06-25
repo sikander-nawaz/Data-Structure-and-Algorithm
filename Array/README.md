@@ -37,3 +37,4 @@
 5.  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
 6.  [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique)
 7.  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)
+8.  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)
