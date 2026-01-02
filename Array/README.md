@@ -21,7 +21,6 @@
 16. [136. Single Number](https://leetcode.com/problems/single-number/)
 17. [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)
 18. [1518. Water Bottles](https://leetcode.com/problems/water-bottles)
-<!-- 14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)
 19. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)
 20. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)
 21. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)
